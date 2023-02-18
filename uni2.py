@@ -1,4 +1,4 @@
-
+#
     file = open(filename, 'r')
     names = tuple(file.readline()[:-1].split(','))
     data = []
